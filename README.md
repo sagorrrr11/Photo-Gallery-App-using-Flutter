@@ -1,4 +1,5 @@
-![Uploading Screenshot (59).png…]()
+![Screenshot (59)](https://github.com/sagorrrr11/gallery_app/assets/130689825/1872946f-d90a-4469-be34-4dff9f7056c8)
+
 ![Screenshot (33)](https://github.com/sagorrrr11/gallery_app/assets/130689825/03751ed8-4054-4e97-872b-38a88f446ccd)
 # gallery_app
 
